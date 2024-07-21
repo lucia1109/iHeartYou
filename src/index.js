@@ -14,6 +14,7 @@ import {
     onAuthStateChanged
 }from 'firebase/auth'
 
+// Just a comment
 const firebaseConfig = {
     apiKey: "AIzaSyA5BcnN8Y2jyyNCF2SM6yi-hZD6YkfH3SE",
     authDomain: "iheartyou-f11af.firebaseapp.com",
